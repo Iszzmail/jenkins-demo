@@ -1,1 +1,2 @@
-echo 'Hello from Jenkins Build 2'
+echo 'Hello from Jenkins Build'
+echo 'email test'
